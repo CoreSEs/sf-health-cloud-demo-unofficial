@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>Patient_Management_Coordination</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <description>This permission set will contain permissions needed for a Patient Services Demo.
+Demen S. 10th June 2022.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>HCDemo_Patient_Management_Coordination</label>
+    <tabSettings>
+        <tab>Analytics_Adherence</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
+        <tab>Patients1</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
+        <tab>Today_s_View</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+</PermissionSet>

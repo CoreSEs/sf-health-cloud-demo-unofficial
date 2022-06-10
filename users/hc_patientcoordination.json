@@ -1,0 +1,15 @@
+{
+  "FirstName": "Patty",
+  "LastName": "Patient Coordinator",
+  "Alias": "papac",
+  "TimeZoneSidKey": "Europe/Berlin",
+  "LocaleSidKey": "de_DE",
+  "EmailEncodingKey": "UTF-8",
+  "LanguageLocaleKey": "en_US",
+  "Country": "Germany",
+  "UserPermissionsSupportUser": true,
+  "UserPreferencesLightningExperiencePreferred": true,
+  "profileName": "System Administrator",
+  "permsets": ["HealthCloudStandard", "HealthCloudPermissionSetLicense", "HealthCloudLimited", "HealthCloudApi", "HealthCloudFoundation", "HealthCloudMemberServices", "HealthCloudSocialDeterminants", "EinsteinAnalyticsPlusUser", "AnalyticsViewOnlyUser","HCDemo_Patient_Management_Coordination"],
+  "generatePassword": true
+}

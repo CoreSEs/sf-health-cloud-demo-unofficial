@@ -1,0 +1,44 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef1"
+            },
+            "Name": "Caregiver",
+            "AccessLevel": "None"
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef2"
+            },
+            "Name": "Care Manager",
+            "AccessLevel": "Edit"
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef3"
+            },
+            "Name": "Patient",
+            "AccessLevel": "None"
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef4"
+            },
+            "Name": "Physician",
+            "AccessLevel": "None"
+        },
+        {
+            "attributes": {
+                "type": "CaseTeamRole",
+                "referenceId": "CaseTeamRoleRef5"
+            },
+            "Name": "Staff",
+            "AccessLevel": "None"
+        }
+    ]
+}

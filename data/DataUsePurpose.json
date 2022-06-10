@@ -1,0 +1,11 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "DataUsePurpose",
+                "referenceId": "DataUsePurposeRef1"
+            },
+            "Name": "HIPAA"
+        }
+    ]
+}

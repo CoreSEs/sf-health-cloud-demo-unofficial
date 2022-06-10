@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Program__c</fullName>
+    <externalId>false</externalId>
+    <label>Program</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Makana Diabetes</fullName>
+                <default>false</default>
+                <label>Makana Diabetes</label>
+            </value>
+            <value>
+                <fullName>Makana Cancer</fullName>
+                <default>false</default>
+                <label>Makana Cancer</label>
+            </value>
+            <value>
+                <fullName>Makana Cardiovascular</fullName>
+                <default>false</default>
+                <label>Makana Cardiovascular</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

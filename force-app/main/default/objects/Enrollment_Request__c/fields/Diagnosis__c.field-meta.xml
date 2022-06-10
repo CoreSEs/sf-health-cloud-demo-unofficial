@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Diagnosis__c</fullName>
+    <externalId>false</externalId>
+    <label>Diagnosis</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Type 1 Diabetes</fullName>
+                <default>false</default>
+                <label>Type 1 Diabetes</label>
+            </value>
+            <value>
+                <fullName>Type 2 Diabetes</fullName>
+                <default>false</default>
+                <label>Type 2 Diabetes</label>
+            </value>
+            <value>
+                <fullName>Gestational Diabetes</fullName>
+                <default>false</default>
+                <label>Gestational Diabetes</label>
+            </value>
+            <value>
+                <fullName>Congenital Heart Disease</fullName>
+                <default>false</default>
+                <label>Congenital Heart Disease</label>
+            </value>
+            <value>
+                <fullName>Arrhythmia</fullName>
+                <default>false</default>
+                <label>Arrhythmia</label>
+            </value>
+            <value>
+                <fullName>Coronary Artery Disease</fullName>
+                <default>false</default>
+                <label>Coronary Artery Disease</label>
+            </value>
+            <value>
+                <fullName>Dilated Cardiomyopathy</fullName>
+                <default>false</default>
+                <label>Dilated Cardiomyopathy</label>
+            </value>
+            <value>
+                <fullName>Myocardial Infarction</fullName>
+                <default>false</default>
+                <label>Myocardial Infarction</label>
+            </value>
+            <value>
+                <fullName>Breast Cancer</fullName>
+                <default>false</default>
+                <label>Breast Cancer</label>
+            </value>
+            <value>
+                <fullName>Prostate Cancer</fullName>
+                <default>false</default>
+                <label>Prostate Cancer</label>
+            </value>
+            <value>
+                <fullName>Basal Cell Cancer</fullName>
+                <default>false</default>
+                <label>Basal Cell Cancer</label>
+            </value>
+            <value>
+                <fullName>Melenoma</fullName>
+                <default>false</default>
+                <label>Melenoma</label>
+            </value>
+            <value>
+                <fullName>Lung Cancer</fullName>
+                <default>false</default>
+                <label>Lung Cancer</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
