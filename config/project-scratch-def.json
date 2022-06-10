@@ -1,24 +1,6 @@
 {
     "orgName": "iLoveHealthCloud2015",
     "edition": "Enterprise",
-    "settings": {
-        "nameSettings": {
-            "enableMiddleName": true,
-            "enableNameSuffix": true
-        },
-        "lightningExperienceSettings": {
-            "enableS1DesktopEnabled": true
-        },
-        "languageSettings": {
-            "enableTranslationWorkbench": true
-        },
-        "enhancedNotesSettings": {
-            "enableEnhancedNotes": true
-        },
-        "mobileSettings": {
-            "enableS1EncryptedStoragePref2": false
-        }
-    },
     "features": [
         "AddCustomApps:25",
         "AddCustomTabs:25",
@@ -44,5 +26,23 @@
         "CMSMaxContType",
         "CMSMaxNodesPerContType",
         "CMSUnlimitedUse"
-    ]
+    ],
+    "settings": {
+        "nameSettings": {
+            "enableMiddleName": true,
+            "enableNameSuffix": true
+        },
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "languageSettings": {
+            "enableTranslationWorkbench": true
+        },
+        "enhancedNotesSettings": {
+            "enableEnhancedNotes": true
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        }
+    }
 }
